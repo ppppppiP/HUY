@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\HUY\HUY\bin\Debug\net6.0\HUY.exe
+C:\Users\user\source\repos\HUY\HUY\bin\Debug\net6.0\HUY.deps.json
+C:\Users\user\source\repos\HUY\HUY\bin\Debug\net6.0\HUY.runtimeconfig.json
+C:\Users\user\source\repos\HUY\HUY\bin\Debug\net6.0\HUY.dll
+C:\Users\user\source\repos\HUY\HUY\bin\Debug\net6.0\HUY.pdb
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.AssemblyInfo.cs
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.dll
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\refint\HUY.dll
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.pdb
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\HUY.genruntimeconfig.cache
+C:\Users\user\source\repos\HUY\HUY\obj\Debug\net6.0\ref\HUY.dll
